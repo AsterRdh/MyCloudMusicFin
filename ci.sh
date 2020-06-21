@@ -1,4 +1,7 @@
 #!/bin/bash
+each pull
 git pull
+each pullFinsh
+each packageing
 mvn clean package
-java -jar target/cloudmusic-0.0.1-SNAPSHOT.jar
+each packaged
