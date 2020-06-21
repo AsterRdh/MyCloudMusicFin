@@ -11,7 +11,7 @@
     <groupId>com.server.MyCloudMusic</groupId>
     <artifactId>cloudmusic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>cloudmusic</name>
     <description>音乐网站服务器</description>
 
