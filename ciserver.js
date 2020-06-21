@@ -5,7 +5,7 @@ let server=http.createServer()
 server.on(
     'request',
     function (req,resp) {
-        console.log("接到一次推送4")
+        console.log("接到一次推送5")
         child_process.exec("./ci.sh",function (error,stdout,stderr) {
             console.log(stdout)
             console.log(error)
